@@ -1,0 +1,1406 @@
+fileFormatVersion: 2
+guid: 97ae07c8fa976624da319d3068f9fbd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5844864308296540574
+    second: Walkk_0
+  - first:
+      213: 3571204620021677968
+    second: Walkk_1
+  - first:
+      213: 3607052938254834224
+    second: Walkk_2
+  - first:
+      213: 8348582640943551780
+    second: Walkk_3
+  - first:
+      213: 5745130993087196467
+    second: Walkk_4
+  - first:
+      213: -3801542795328143873
+    second: Walkk_5
+  - first:
+      213: -101111797708570318
+    second: Walkk_6
+  - first:
+      213: -440790812950269780
+    second: Walkk_7
+  - first:
+      213: -6298944742098675568
+    second: Walkk_8
+  - first:
+      213: -7674850488041457089
+    second: Walkk_9
+  - first:
+      213: 2152495691126454774
+    second: Walkk_10
+  - first:
+      213: 5358777906525558472
+    second: Walkk_11
+  - first:
+      213: 9082610010523280846
+    second: Walkk_12
+  - first:
+      213: 642910858230235030
+    second: Walkk_13
+  - first:
+      213: -1406820176785361979
+    second: Walkk_14
+  - first:
+      213: 7365288900185898881
+    second: Walkk_15
+  - first:
+      213: -1652064687138316944
+    second: Walkk_16
+  - first:
+      213: -2899413289551089831
+    second: Walkk_17
+  - first:
+      213: 5385155225929046934
+    second: Walkk_18
+  - first:
+      213: 5076429223189489060
+    second: Walkk_19
+  - first:
+      213: -1735371120278519833
+    second: Walkk_20
+  - first:
+      213: -3869404428383987531
+    second: Walkk_21
+  - first:
+      213: 6060447749453320149
+    second: Walkk_22
+  - first:
+      213: 9022653922806746752
+    second: Walkk_23
+  - first:
+      213: 3709724093960855208
+    second: Walkk_24
+  - first:
+      213: -8308069237612910551
+    second: Walkk_25
+  - first:
+      213: 6866480695408473639
+    second: Walkk_26
+  - first:
+      213: -7483022843835163718
+    second: Walkk_27
+  - first:
+      213: 7210721455155588925
+    second: Walkk_28
+  - first:
+      213: -2416131872192924267
+    second: Walkk_29
+  - first:
+      213: 6018109308614724183
+    second: Walkk_30
+  - first:
+      213: 8014293672868790724
+    second: Walkk_31
+  - first:
+      213: -2510548957629204832
+    second: Walkk_32
+  - first:
+      213: 3332337252401472432
+    second: Walkk_33
+  - first:
+      213: 8276610869077883531
+    second: Walkk_34
+  - first:
+      213: 9176855730996555989
+    second: Walkk_35
+  - first:
+      213: 8984250980292899104
+    second: Walkk_36
+  - first:
+      213: -7172079551600793886
+    second: Walkk_37
+  - first:
+      213: 717084074884540576
+    second: Walkk_38
+  - first:
+      213: 1400675242985410060
+    second: Walkk_39
+  - first:
+      213: -6222410458283759382
+    second: Walkk_40
+  - first:
+      213: 2841694227391595554
+    second: Walkk_41
+  - first:
+      213: -3506211802486070172
+    second: Walkk_42
+  - first:
+      213: -5521289402735146434
+    second: Walkk_43
+  - first:
+      213: 6962907659478410170
+    second: Walkk_44
+  - first:
+      213: -9106325230073451926
+    second: Walkk_45
+  - first:
+      213: -4951050371052627115
+    second: Walkk_46
+  - first:
+      213: 5013074979564352863
+    second: Walkk_47
+  - first:
+      213: 8098283804714859196
+    second: Walkk_48
+  - first:
+      213: -6400288519567036357
+    second: Walkk_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walkk_0
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 9483
+        width: 473
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e10a701eed2eea0800000000000000
+      internalID: -5844864308296540574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_1
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 9484
+        width: 476
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f30ac4ea77f8130800000000000000
+      internalID: 3571204620021677968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_2
+      rect:
+        serializedVersion: 2
+        x: 4873
+        y: 9486
+        width: 475
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a55be4983de0230800000000000000
+      internalID: 3607052938254834224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_3
+      rect:
+        serializedVersion: 2
+        x: 6954
+        y: 9488
+        width: 456
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425de63edaf1cd370800000000000000
+      internalID: 8348582640943551780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_4
+      rect:
+        serializedVersion: 2
+        x: 9040
+        y: 9490
+        width: 428
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dac0ff23ecabf40800000000000000
+      internalID: 5745130993087196467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_5
+      rect:
+        serializedVersion: 2
+        x: 11099
+        y: 9481
+        width: 447
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd350618f43e3bc0800000000000000
+      internalID: -3801542795328143873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 8321
+        width: 398
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231cafe0b57c89ef0800000000000000
+      internalID: -101111797708570318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_7
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 8324
+        width: 371
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0f7dd471ff1e9f0800000000000000
+      internalID: -440790812950269780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_8
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 8324
+        width: 345
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098d46b5127a598a0800000000000000
+      internalID: -6298944742098675568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_9
+      rect:
+        serializedVersion: 2
+        x: 7030
+        y: 8325
+        width: 315
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3e0ce4247d7590800000000000000
+      internalID: -7674850488041457089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_10
+      rect:
+        serializedVersion: 2
+        x: 9112
+        y: 8328
+        width: 287
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9b62a3d633fdd10800000000000000
+      internalID: 2152495691126454774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_11
+      rect:
+        serializedVersion: 2
+        x: 11091
+        y: 8310
+        width: 468
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6daac2d143e5a40800000000000000
+      internalID: 5358777906525558472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_12
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 7154
+        width: 272
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5a5aecea9eb0e70800000000000000
+      internalID: 9082610010523280846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_13
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 7150
+        width: 255
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ffd0fe4041ce800800000000000000
+      internalID: 642910858230235030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_14
+      rect:
+        serializedVersion: 2
+        x: 5018
+        y: 7147
+        width: 245
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c33bdbb088f97ce0800000000000000
+      internalID: -1406820176785361979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_15
+      rect:
+        serializedVersion: 2
+        x: 7079
+        y: 7146
+        width: 251
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f35b35b33c63660800000000000000
+      internalID: 7365288900185898881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_16
+      rect:
+        serializedVersion: 2
+        x: 9139
+        y: 7145
+        width: 263
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d57298befa219e0800000000000000
+      internalID: -1652064687138316944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_17
+      rect:
+        serializedVersion: 2
+        x: 11087
+        y: 7139
+        width: 474
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fa24399f633c7d0800000000000000
+      internalID: -2899413289551089831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_18
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 5972
+        width: 292
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bd6dd652aebba40800000000000000
+      internalID: 5385155225929046934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_19
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 5972
+        width: 317
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a52f9f7b79137640800000000000000
+      internalID: 5076429223189489060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_20
+      rect:
+        serializedVersion: 2
+        x: 4948
+        y: 5973
+        width: 330
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efb3561929bae7e0800000000000000
+      internalID: -1735371120278519833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_21
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5975
+        width: 342
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b859d16c2d1d4ac0800000000000000
+      internalID: -3869404428383987531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_22
+      rect:
+        serializedVersion: 2
+        x: 9054
+        y: 5976
+        width: 383
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0bf55e190b1450800000000000000
+      internalID: 6060447749453320149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_23
+      rect:
+        serializedVersion: 2
+        x: 11085
+        y: 5967
+        width: 473
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e4e2050f7e63d70800000000000000
+      internalID: 9022653922806746752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4807
+        width: 420
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae9e3398669b7330800000000000000
+      internalID: 3709724093960855208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_25
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 4809
+        width: 447
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9286bb2eb0fc3bc80800000000000000
+      internalID: -8308069237612910551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_26
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 4803
+        width: 464
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72636e2ffc3aa4f50800000000000000
+      internalID: 6866480695408473639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_27
+      rect:
+        serializedVersion: 2
+        x: 6951
+        y: 4800
+        width: 474
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb521bce56f62890800000000000000
+      internalID: -7483022843835163718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_28
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 4798
+        width: 473
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f26dc95f0a11460800000000000000
+      internalID: 7210721455155588925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_29
+      rect:
+        serializedVersion: 2
+        x: 11094
+        y: 4792
+        width: 453
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595f07b0ddc287ed0800000000000000
+      internalID: -2416131872192924267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_30
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 3626
+        width: 477
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ac377e78e948350800000000000000
+      internalID: 6018109308614724183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_31
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 3626
+        width: 477
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1410942ad783f60800000000000000
+      internalID: 8014293672868790724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_32
+      rect:
+        serializedVersion: 2
+        x: 4887
+        y: 3625
+        width: 456
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6b845460db82dd0800000000000000
+      internalID: -2510548957629204832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_33
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 3625
+        width: 430
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3e0395317de3e20800000000000000
+      internalID: 3332337252401472432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_34
+      rect:
+        serializedVersion: 2
+        x: 9060
+        y: 3625
+        width: 399
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a368bebbd6cd270800000000000000
+      internalID: 8276610869077883531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_35
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2453
+        width: 364
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0be019aadba5f70800000000000000
+      internalID: 9176855730996555989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_36
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 2455
+        width: 329
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021305d7aa87eac70800000000000000
+      internalID: 8984250980292899104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_37
+      rect:
+        serializedVersion: 2
+        x: 4987
+        y: 2458
+        width: 292
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6edf9a5a7a77c90800000000000000
+      internalID: -7172079551600793886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_38
+      rect:
+        serializedVersion: 2
+        x: 7071
+        y: 2456
+        width: 259
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a82595ba2893f900800000000000000
+      internalID: 717084074884540576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_39
+      rect:
+        serializedVersion: 2
+        x: 9153
+        y: 2453
+        width: 246
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e44df56b2307310800000000000000
+      internalID: 1400675242985410060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_40
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1278
+        width: 235
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8225be7ae85a9a0800000000000000
+      internalID: -6222410458283759382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_41
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1276
+        width: 232
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22444f708d9bf6720800000000000000
+      internalID: 2841694227391595554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_42
+      rect:
+        serializedVersion: 2
+        x: 5022
+        y: 1274
+        width: 241
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464298d31fe675fc0800000000000000
+      internalID: -3506211802486070172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_43
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 1272
+        width: 260
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ac7df8a807063b0800000000000000
+      internalID: -5521289402735146434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_44
+      rect:
+        serializedVersion: 2
+        x: 9119
+        y: 1272
+        width: 282
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3ae0f00a731a060800000000000000
+      internalID: 6962907659478410170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_45
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 100
+        width: 302
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a6b4c5375df9180800000000000000
+      internalID: -9106325230073451926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_46
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 101
+        width: 315
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b97585be55a4bb0800000000000000
+      internalID: -4951050371052627115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_47
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 101
+        width: 346
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55f45d2225029540800000000000000
+      internalID: 5013074979564352863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_48
+      rect:
+        serializedVersion: 2
+        x: 6986
+        y: 103
+        width: 387
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaf35eb632e26070800000000000000
+      internalID: 8098283804714859196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walkk_49
+      rect:
+        serializedVersion: 2
+        x: 9041
+        y: 104
+        width: 420
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30323b608b9d27a0800000000000000
+      internalID: -6400288519567036357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
