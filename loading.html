@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading - Threads of Time</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background: url('images/bggame.png') center/cover no-repeat fixed;
+            font-family: 'Montserrat', sans-serif;
+            overflow: hidden;
+        }
+
+        .loading-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+        }
+
+        .loading-content {
+            text-align: center;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .hourglass {
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 20px;
+            animation: spin 2s linear infinite;
+        }
+
+        .loading-text {
+            font-size: 1.5rem;
+            margin-top: 20px;
+            opacity: 0;
+            animation: fadeInOut 2s ease-in-out infinite;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        @keyframes fadeInOut {
+            0%, 100% {
+                opacity: 0;
+            }
+            50% {
+                opacity: 1;
+            }
+        }
+
+        .progress-bar {
+            width: 200px;
+            height: 4px;
+            background: rgba(255, 255, 255, 0.2);
+            margin: 20px auto;
+            border-radius: 2px;
+            overflow: hidden;
+        }
+
+        .progress {
+            width: 0%;
+            height: 100%;
+            background: #D4A373;
+            animation: progress 3s ease-in-out forwards;
+        }
+
+        @keyframes progress {
+            0% {
+                width: 0%;
+            }
+            100% {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="loading-container">
+        <div class="loading-content">
+            <img src="images/hourglass.png" alt="Loading" class="hourglass">
+            <div class="loading-text">Loading Threads of Time...</div>
+            <div class="progress-bar">
+                <div class="progress"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Function to handle page loading
+        function handleLoading() {
+            // Create a new image object to preload the background
+            const bgImage = new Image();
+            bgImage.src = 'images/bggame.png';
+
+            bgImage.onload = function() {
+                // After the background is loaded, wait and redirect
+                setTimeout(() => {
+                    window.location.href = 'index.html';
+                }, 3000);
+            };
+
+            // If the image fails to load, still proceed after a timeout
+            bgImage.onerror = function() {
+                setTimeout(() => {
+                    window.location.href = 'index.html';
+                }, 3000);
+            };
+        }
+
+        // Start loading when the page loads
+        window.addEventListener('load', handleLoading);
+    </script>
+</body>
+</html> 

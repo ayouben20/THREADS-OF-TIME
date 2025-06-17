@@ -1,0 +1,25 @@
+{
+  "name": "threads-of-time",
+  "version": "1.0.0",
+  "description": "Threads of Time - Mobile Adventure Puzzle Game",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/kufam": "^5.2.6",
+    "framer-motion": "^10.18.0",
+    "gsap": "^3.13.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet-async": "^2.0.5",
+    "react-router-dom": "^6.30.1",
+    "styled-components": "^6.1.18"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.5"
+  }
+}

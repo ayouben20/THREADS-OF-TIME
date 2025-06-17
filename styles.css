@@ -1,0 +1,387 @@
+:root {
+    --color-primary: #B8860B; /* Darker Gold/Bronze */
+    --color-secondary: #2A2A2A; /* Deep Charcoal for sections */
+    --color-accent: #FFD700; /* Vibrant Gold for highlights */
+    --color-text: #F5F5DC; /* Light Beige for main text */
+    --color-background: #1A1A1A; /* Very dark background */
+    --color-pattern: #8B4513; /* Saddle Brown for patterns */
+
+    --font-heading: 'Cormorant Garamond', serif;
+    --font-body: 'Montserrat', sans-serif;
+
+    --shadow-strong: 0 10px 30px rgba(0, 0, 0, 0.6);
+    --shadow-medium: 0 5px 15px rgba(0, 0, 0, 0.4);
+    --border-fancy: 2px solid var(--color-accent);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--color-background);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--color-primary);
+    border-radius: 6px;
+    border: 3px solid var(--color-background);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--color-accent);
+}
+
+body {
+    font-family: var(--font-body);
+    color: var(--color-text);
+    background-color: transparent; /* Remove the fallback background */
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Navigation (Note: Navbar is styled with styled-components, but this is a general reference) */
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.75); /* More transparent navbar */
+    padding: 1rem 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    box-shadow: var(--shadow-strong);
+    border-bottom: var(--border-fancy);
+}
+
+.logo {
+    font-family: var(--font-heading);
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--color-accent);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--color-text);
+    font-weight: 600;
+    font-size: 1.25rem;
+    position: relative;
+    padding-bottom: 8px;
+    transition: color 0.3s ease;
+}
+
+.nav-links a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 4px;
+    background: var(--color-primary);
+    border-radius: 2px;
+    transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+.nav-links a:hover::after {
+    width: 100%;
+    background: var(--color-accent);
+}
+
+.nav-links a.active {
+    color: var(--color-accent);
+}
+
+.nav-links a.active::after {
+    width: 100%;
+    background: var(--color-accent);
+}
+
+.hamburger {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+.hamburger span {
+    display: block;
+    width: 30px;
+    height: 4px;
+    background-color: var(--color-text);
+    margin: 6px 0;
+    border-radius: 2px;
+    transition: 0.3s;
+}
+
+/* Hero Section (Main styling now in Home.jsx, this is general reference) */
+.hero {
+    /* Styles moved to styled-components in Home.jsx */
+}
+
+.hero-content {
+    /* Styles moved to styled-components in Home.jsx */
+}
+
+.hero h1 {
+    /* Styles moved to styled-components in Home.jsx */
+}
+
+.tagline {
+    /* Styles moved to styled-components in Home.jsx */
+}
+
+.cta-button {
+    /* Styles moved to styled-components in Home.jsx */
+}
+
+/* Story Section (Main styling now in Home.jsx, this is general reference) */
+.story {
+    background-color: rgba(42, 42, 42, 0.7); /* Semi-transparent background */
+    padding: 8rem 0;
+    color: var(--color-text);
+}
+
+.story::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px; /* Thicker */
+    background: repeating-linear-gradient(
+        -45deg,
+        var(--color-pattern),
+        var(--color-pattern) 20px,
+        transparent 20px,
+        transparent 40px
+    ); /* Larger, more complex pattern */
+    opacity: 0.8;
+}
+
+.story h2 {
+    font-family: var(--font-heading);
+    font-size: 3.8rem; /* Larger */
+    text-align: center;
+    margin-bottom: 3rem;
+    color: var(--color-accent); /* Make headings stand out */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.story-content {
+    max-width: 1000px; /* Wider */
+    margin: 0 auto;
+    text-align: center;
+    padding: 4rem; /* More padding */
+    background: rgba(0, 0, 0, 0.7); /* Darker, more transparent background */
+    border-radius: 20px;
+    box-shadow: var(--shadow-strong);
+    color: var(--color-text);
+}
+
+.story-content p {
+    margin-bottom: 1.5rem;
+    font-size: 1.2rem; /* Slightly larger */
+    line-height: 1.8;
+}
+
+/* Gallery Section (Main styling now in Home.jsx, this is general reference) */
+.gallery {
+    padding: 8rem 0;
+    background-color: transparent; /* Remove background */
+}
+
+.gallery h2 {
+    font-family: var(--font-heading);
+    font-size: 3.8rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: var(--color-accent);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Download Section */
+.download {
+    background-color: rgba(42, 42, 42, 0.7); /* Semi-transparent background */
+    padding: 8rem 0;
+    color: var(--color-text);
+}
+
+.download h2 {
+    font-family: var(--font-heading);
+    font-size: 3.8rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: var(--color-accent);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Contact Section */
+.contact {
+    background-color: transparent; /* Remove background */
+    padding: 8rem 0;
+}
+
+.contact h2 {
+    font-family: var(--font-heading);
+    font-size: 3.8rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: var(--color-accent);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.contact p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto 1.5rem auto;
+    color: var(--color-text);
+}
+
+.contact a {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.contact a:hover {
+    color: var(--color-accent);
+}
+
+/* Footer */
+footer {
+    background-color: var(--color-secondary);
+    color: white;
+    padding: 4rem 0 2rem;
+    text-align: center;
+    border-top: var(--border-fancy);
+    box-shadow: var(--shadow-strong) inset;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+.social-links {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.social-links a {
+    color: var(--color-accent);
+    font-size: 2rem;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.social-links a:hover {
+    color: var(--color-primary);
+    transform: translateY(-5px) scale(1.1);
+}
+
+.contact-info p,
+.copyright p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.contact-info a {
+    color: var(--color-primary);
+    font-weight: 600;
+    &:hover { color: var(--color-accent); }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .navbar {
+        padding: 0.8rem 1.5rem;
+    }
+
+    .nav-links {
+        display: none; /* Hidden on mobile, shown by JS */
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .hero h1 {
+        font-size: 3rem;
+    }
+
+    .tagline {
+        font-size: 1.2rem;
+    }
+
+    .story h2,
+    .gallery h2,
+    .download h2,
+    .contact h2 {
+        font-size: 3rem;
+    }
+
+    .story-content,
+    .gallery-grid,
+    .features-grid {
+        padding: 0 1rem;
+    }
+
+    .footer-content {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .tagline {
+        font-size: 1rem;
+    }
+
+    .cta-button {
+        padding: 0.8rem 1.5rem;
+        font-size: 1rem;
+    }
+
+    .story h2,
+    .gallery h2,
+    .download h2,
+    .contact h2 {
+        font-size: 2.5rem;
+    }
+} 
